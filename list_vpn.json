@@ -117,6 +117,7 @@ persist-tun
 dev tun
 auth SHA256
 remote 219.100.37.190 1194
+ifconfig 219.100.37.190 255.255.255.255
 auth-user-pass
 tls-client
 
