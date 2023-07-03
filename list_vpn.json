@@ -116,6 +116,7 @@ persist-key
 persist-tun
 dev tun
 auth SHA256
+remote 219.100.37.190 1194
 auth-user-pass
 tls-client
 
