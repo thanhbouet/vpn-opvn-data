@@ -119,7 +119,7 @@ comp-lzo
 mssfix
 persist-key
 persist-tun
-ifconfig 116.96.47.2 255.255.255.0
+ifconfig 116.96.47.2 219.100.37.94
 tls-client
 
 
