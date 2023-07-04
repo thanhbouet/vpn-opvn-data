@@ -210,6 +210,7 @@ nobind
 persist-key
 persist-tun
 client
+tls-client
 verb 3
 #auth-user-pass
 
